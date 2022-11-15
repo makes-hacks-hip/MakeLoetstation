@@ -1,8 +1,15 @@
 # Projekt Lötstation
 
-Wir haben in unserem Makerspace drei Maiskolben Lötstationen, gebaut nach der Anleitung in [Make Lötstation](https://www.heise.de/select/make/2016/5/1476695937422186).
+_Die Lötstationen wurden bereits vor einigen Jahren gebaut, das Wissen darüber ging jedoch leider verloren. Dieses Repo versucht alle Infos wieder auszugraben und das Projekt zu dokumentieren._
 
-[Video](./in_action.MP4)
+Die ursprüngliche Idee für diese Selbstbau-Löstation kommt von [Arduino Hannover](https://github.com/ArduinoHannover/Maiskolben) und wurde in der [Make](vorgestellt).
+
+Der original Blog-Post zu unseren Lötstationen ist [hier](https://chaos-hip.de/post/2020/09/22_maiskolben_dht/). 
+
+Unsere Quellcodes und die Pinzuordnung Arduino/Display ([ST7735](./ST7735.pdf)-Chip) gibt es in unserem [Git-Repo](https://github.com/makes-hacks-hip/Maiskolben_Hip_Firmware).
+Die ursprüngliche Doku zur Lötstation ist im  [Chaostreff Wiki](https://wiki.chaos-hip.de/de/projekte/maiskolben).
+
+Hier noch ein kleines [Video](./in_action.MP4) der fertigen Lötstation.
 
 ## Tasten
 
